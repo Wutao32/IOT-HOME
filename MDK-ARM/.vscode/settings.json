@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "esp8266.h": "c",
+        "bsp_esp8266_test.h": "c",
+        "mqtt.h": "c",
+        "main.h": "c"
+    }
+}
