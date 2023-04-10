@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "control.h": "c",
+        "mqtt.h": "c",
+        "led.h": "c",
+        "pushdata.h": "c",
+        "oled.h": "c",
+        "iic.h": "c",
+        "usart1.h": "c",
+        "oledfont.h": "c",
+        "dht11.h": "c",
+        "wifi.h": "c",
+        "string.h": "c"
+    },
+    "commentTranslate.targetLanguage": "zh-CN",
+    "commentTranslate.hover.enabled": true
+}
